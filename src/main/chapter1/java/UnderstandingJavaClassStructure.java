@@ -1,11 +1,17 @@
 // base class
 public class UnderstandingJavaClassStructure {
+    // Fields aka variables
     String name;
-    // gette
+
+    /**
+     * Methods aka functions
+     */
+    // getter
     public String getName(){
     return name;}
+
     // setter
-    public void setName(String newName){
+    public void setName(String newName){ // void does not return anything but it changes one of the fields.
         name = newName;
     }
 }
