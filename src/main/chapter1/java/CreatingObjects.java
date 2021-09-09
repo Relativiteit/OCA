@@ -11,8 +11,11 @@ public class CreatingObjects {
     public static void main(String[] args) {
 
         // type, variable name, new constructor
-        CreatingObjects aObject = new CreatingObjects();
-        System.out.println(aObject.name);
+         CreatingObjects aObject = new CreatingObjects();
+         System.out.println(aObject.name);
+
+
+
 
     }
 

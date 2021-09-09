@@ -1,15 +1,16 @@
 import javax.swing.text.DefaultCaret;
 
 public class DeclaringInitializingVariables {
+    public boolean b1 = true;
 
 
     public DeclaringInitializingVariables(){
-        boolean b1 = true;
+    b1 = false;
 
     }
     public static void main(String[] args) {
-        boolean b1;
-        b1 = false;
+       boolean b1;
+       b1 = true;
         boolean b2;
         String s1 = "123thatsMyNUmber ";
         double d1, d2; // double d1, double d2, will not compile
@@ -18,7 +19,7 @@ public class DeclaringInitializingVariables {
         i2 = 5;
 
         DeclaringInitializingVariables monkey = new DeclaringInitializingVariables();
-        System.out.println(monkey);
+        System.out.println(monkey.b1 + " " +  b1);
 
         System.out.println(i1 + i2);
 
