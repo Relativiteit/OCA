@@ -18,5 +18,5 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
  * ```DefaultInitializingVariables``` Local Variables, Instance and Class Variables
  * ```VariableScope```
  * ```OrderingElements```
- * ```DestroyingObjects``` Garbage Collection, finalize().
+ * ```DestroyingObjects``` Garbage Collection, finalize().2
  * ```Summary``` Implementation of main concepts of chapter 1
