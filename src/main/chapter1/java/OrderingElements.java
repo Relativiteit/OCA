@@ -9,8 +9,8 @@ public class OrderingElements {
     private String gucci;
     private Random rando;
 
-    public static void main(){
-        System.out.println("insert special code here " +);
+    public static void main(String[] args){
+        System.out.println("insert special code here " );
 
     }
 
