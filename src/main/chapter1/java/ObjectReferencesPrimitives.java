@@ -1,5 +1,5 @@
 public class ObjectReferencesPrimitives {
-
+// fields
     static String name = " test";
     boolean questionLife;
     private int numObjects = 5;
@@ -17,7 +17,7 @@ public class ObjectReferencesPrimitives {
      * short        -   0
      * string       -   null
      */
-
+// constructor
    public ObjectReferencesPrimitives() {
        name = "Japanese";
        numObjects = 20;
@@ -27,6 +27,7 @@ public class ObjectReferencesPrimitives {
        numberLong = 60000;
        numberShort = 1;
     }
+    // main function
     public static void main(String[] args)
     {
         ObjectReferencesPrimitives garden = new ObjectReferencesPrimitives();
