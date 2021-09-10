@@ -1,6 +1,7 @@
 # OCA
 OCA book for java certification.
 These scripts implement what is discussed in the book OCA. Use this repo as study guide for you OCA exam or as a reference.
+
 ##Structure 
 There are a total of six chapters in the book OCA Oracle Certified Associate Java SE 8 Programmer 1.
 
@@ -22,3 +23,10 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
  * ```Summary``` Implementation of main concepts of chapter 1
 
 ## Chapter 2 Operators and Statements
+* ```JavaOperators``` 
+* ```BinaryArithmeticOperators ```
+* ```UnaryOperators```
+* ```AdditionalBinaryOperators```
+* ```JavaStatements```
+* ```AdvancedFlowControl```
+* ```SummaryChapter2```
