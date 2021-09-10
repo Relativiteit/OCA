@@ -22,12 +22,3 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
  * ```Summary``` Implementation of main concepts of chapter 1
 
 ## Chapter 2 Operators and Statements
-* ```OperatorsParenthesesOvverideOperator``` 
-* ```IfElseTennaryCOnstructs```
-* ```SwitchStatements```
-* ```WhileLoops```
-* ```ForLoops```
-* ```EnhancedLoops```
-* ```DoWhileLoops```
-* ```CompareLoopConstructs```
-* ```BreakContinue```
