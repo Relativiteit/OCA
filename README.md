@@ -11,7 +11,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 ## Chapter 1 Java Building blocks
 
  * ```UnderstatingJavaclassStructure``` Fields and methods, Comments, Classes vs files.
- * ```WritingMainFunctions``` 
+ * ```WritingMainFunctions``` Main function of Java scripts.
  * ```PackageDeclarationsImports``` Wildcards, Redundant Imports, Naming Conflicts, Creating a New Package.
  * ```CreatingObjects``` Constructors, Reading and Writing Object Fields, Instance Initializer Blocks, Order of initialization.
  * ```ObjectReferencesPrimitives``` Primitive Types, References Types, Key Differences.
@@ -23,7 +23,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
  * ```Summary``` Implementation of main concepts of chapter 1.
 
 ## Chapter 2 Operators and Statements
-* ```JavaOperators``` 
+* ```JavaOperators``` Common operators used in Java.
 * ```BinaryArithmeticOperators ``` Arithmetic Operators  Numeric Promotion.
 * ```UnaryOperators``` Logical Complement and Negation Operators, Increment and Decrement Operators.
 * ```AdditionalBinaryOperators``` Assignment Operators, Compound Assignment Operators, Relational Operators, Logical Operators, Equality Operators.
