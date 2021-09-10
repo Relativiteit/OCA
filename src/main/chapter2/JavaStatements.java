@@ -1,0 +1,2 @@
+public class JavaStatements {
+}

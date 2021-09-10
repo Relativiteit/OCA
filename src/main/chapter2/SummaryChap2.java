@@ -1,0 +1,2 @@
+public class SummaryChap2 {
+}
