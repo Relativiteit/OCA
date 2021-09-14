@@ -1,58 +1,30 @@
 public class AdditionalBinaryOperators {
-    public static void main(String[] args)
-    /**
-     * Other unary operators ~, +, -,!
-     * Multiplixction/Division/MOdulus *,/,%
-     * ADdition/Subtraction +,-
-     * Shift operators <<,>>,>>>
-     * Relational operators <,>,<=,>=, instance of
-     * Equal to/not equal to ==, !=
-     * Logical operators &,^,|
-     * Short-circuit logical operators &&,||
-     * Ternary operators boolean expression ? expression1 : expression2
-     * Assignment operator  =, +=, -=, *=, /=, %=, |=, <<=,>>=,>>>=
-     *
-     * Post-unary operators expression++, expression --
-     * Pre-unary operators ++expresion, --expresion
-     *
-     */
-    { // modulus
-        System.out.println(10 / 3);
-        System.out.println(10 % 3);
-        System.out.println(11 /3 );
-        System.out.println( 12 / 3);
-        System.out.println(12 % 3);
+    public static void main(String[] args){
+        /**
+         * Overflow and underflow
+         * Casting Primitive values
+         *
+         */
+        int g = (int)1.0;
+        System.out.println(g);
+        short e = (short)1921222; // stored as maximum value of short
+        int f = (int)9f;
+        long t = 199_992_312_33L; // use the big L small l is also possible but looks like a one
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(t);
 
-        // data promotion  x * y / z
+        short x = 10;
+        short y = 3;
+        //short z = y * x ; incompatible types short * short will be promoted to int
+        int z = y * x;
+        System.out.println(z);
 
-        short x = 14;
-        float y = 13;
-        double z = 30;
-        Typetester test = new Typetester();
-        double k = x * y / z;
-        //System.out.println((test.printType(k))); // void type not allowed?
-        System.out.println(x * y/ z );
+
+
+
 
 
 
     }
-
-    static class Typetester {
-        void printType(byte x) {
-            System.out.println(x + " is an byte");
-        }
-        void printType(int x) {
-            System.out.println(x + " is an int");
-        }
-        void printType(float x) {
-            System.out.println(x + " is an float");
-        }
-        void printType(double x) {
-            System.out.println(x + " is an double");
-        }
-        void printType(char x) {
-            System.out.println(x + " is an char");
-        }
-    }
-
 }
