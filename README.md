@@ -36,4 +36,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```StringBuilder``` Mutability and Chaining, Creating a StringBuilder, Important StringBUilder mEthods, Stringbuilder vs Stringbuffer.
 * ``` Equality``` 
 * ``` JavaArrays``` Array of primitives, Array with reference variables, using an array, sorting, searching, Varargs, Multidimensional Arrays.
+* ```ArrayList``` Create arrayList, Using ArrayList, wrapper classes, autoboxing, convering between array and List, sorting.
+* ```DatesTime``` Creating dates and times, manipulating dates and times, working with periods, formatting dates and Times, Parsing Dates and Times.
+* ```SummaryChap3``` Summary of all that is learned in chapter 3.
 * 
