@@ -5,7 +5,7 @@ import java.util.Random;
 // access modifiers
 // implement own random
 
-public class JavaStatements extends RandomGenerator {
+public class JavaStatements  {
     /**
      * if then
      * if-then-else
@@ -45,7 +45,7 @@ public class JavaStatements extends RandomGenerator {
 
         // Switch statement
         amount = 4;
-        switch() {
+        switch(amount) {
             case 0:
                 System.out.println("Everyone is disappointment so the dogs and cats vow to eat all humans");
             case 9:
