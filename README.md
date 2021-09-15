@@ -30,3 +30,10 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```JavaStatements``` If-then, If-then-else, Switch, While, Do While, For.
 * ```AdvancedFlowControl``` Nested loops, ADding Optional Labels, Break, Continue.
 * ```SummaryChapter2``` Implementation of main concepts of chapter 2.
+
+## Chapter 3 Core Java APIs
+* ```CreateManipulateString``` Concatenation, Immutability, The String Pool, Important String Methods, Method Chaining.
+* ```StringBuilder``` Mutability and Chaining, Creating a StringBuilder, Important StringBUilder mEthods, Stringbuilder vs Stringbuffer.
+* ``` Equality``` 
+* ``` JavaArrays``` Array of primitives, Array with reference variables, using an array, sorting, searching, Varargs, Multidimensional Arrays.
+* 
