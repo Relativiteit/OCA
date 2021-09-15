@@ -39,4 +39,5 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```ArrayList``` Create arrayList, Using ArrayList, wrapper classes, autoboxing, convering between array and List, sorting.
 * ```DatesTime``` Creating dates and times, manipulating dates and times, working with periods, formatting dates and Times, Parsing Dates and Times.
 * ```SummaryChap3``` Summary of all that is learned in chapter 3.
-* 
+
+## Chapter 4 Methods and Encapsulation
