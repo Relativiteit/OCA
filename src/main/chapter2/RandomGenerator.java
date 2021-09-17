@@ -25,7 +25,7 @@ public RandomGenerator(int max){
     }
 
     public int genRandomNumber(){
-        last = (last * 32719 + 3) % 32749;
+        last = (last * 32719 + 3) % 32749; // 2 big prime numbers they can be whatever as long as it's prime number
         return last % max;
 
     }
