@@ -5,7 +5,7 @@ These scripts implement what is discussed in the book OCA. Use this repo as stud
 ##Structure 
 There are a total of six chapters in the book OCA Oracle Certified Associate Java SE 8 Programmer 1.
 
-Every chapter will have scripts to solidify the concepts within JAVA, and a summary class that will try to implement every prior scripts concepts.
+Every chapter will have scripts to solidify the concepts within JAVA, and a summary class that will try to implement the most important things of the chapter.
 
 
 ## Chapter 1 Java Building blocks
@@ -34,10 +34,20 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 ## Chapter 3 Core Java APIs
 * ```CreateManipulateString``` Concatenation, Immutability, The String Pool, Important String Methods, Method Chaining.
 * ```StringBuilder``` Mutability and Chaining, Creating a StringBuilder, Important StringBuilder Methods, Stringbuilder vs Stringbuffer.
-* ``` Equality``` 
+* ``` Equality``` differences '==' and .equals()
 * ``` JavaArrays``` Array of primitives, Array with reference variables, using an array, sorting, searching, Varargs, Multidimensional Arrays.
 * ```ArrayList``` Create arrayList, Using ArrayList, wrapper classes, autoboxing, convering between array and List, sorting.
 * ```DatesTime``` Creating dates and times, manipulating dates and times, working with periods, formatting dates and Times, Parsing Dates and Times.
 * ```SummaryChap3``` Summary of all that is learned in chapter 3.
 
 ## Chapter 4 Methods and Encapsulation
+* ```DesigningMethods```Optional Specifiers, Return Type, Method Name, Parameter List, Optional Exception List, Method body.
+* ```Varargs```
+* ```AccessModifiers``` Private Access, Default Access, Protected Access, Public Access, Designing Static Methods and Fields, Calling a Static Variable or Mehod, Static vs instance, Static variable, Static Initialization, Static Imports.
+* ```PassingDataMethods``` 
+* ```OverloadingMethods```
+* ```CreatingConstructors```Default Constructors, Overloading Constructors, Final Fields, Order of Initialization.
+* ```EncapsulationData``` Creating Immutable Classes.
+* ```SimpleLambda``` simplified lambda expressions.
+* ```SummaryChap4``` Summary of most important things learned in chapter 4. 
+
