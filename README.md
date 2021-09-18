@@ -51,3 +51,10 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```SimpleLambda``` simplified lambda expressions.
 * ```SummaryChap4``` Summary of most important things learned in chapter 4. 
 
+## Chapter 5 Class Design
+* ```ClassInheritance```
+* ```AbstractClasses```
+* ```ImplementingInterfaces```
+* ```Polymorphism```
+* ```SummaryChap5```
+
