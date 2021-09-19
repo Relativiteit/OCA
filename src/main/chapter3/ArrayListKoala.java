@@ -20,10 +20,15 @@ public class ArrayListKoala  {
         fruits.remove("appel");
         System.out.println(fruits);
 
+        // forEach loop through arrayList
+        fruits.forEach((fruit) -> print(fruit));
+
         fruits.clear();
         System.out.println(fruits);
 
     }
-
+public static void print(String fruit){
+    System.out.println("We have these items for sale " + fruit);
+}
 
 }

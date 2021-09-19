@@ -10,24 +10,24 @@ import java.util.Scanner;
 public class DateTime {
     public static void main(String[] args){
 
-
-     protected DateTime(){
-        String name = Scanner;
-    }
-    {
-
-
-        Date currentDate = new Date();
-      //  currentDate
-
-    }
-
-}
-
-    private static  getDate() {
-        return Date;
-    }
-    private static void setDate(){
-        this.Date = Date;
-    }
-}
+//
+//     protected DateTime(){
+//        String name = Scanner;
+//    }
+//    {
+//
+//
+//        Date currentDate = new Date();
+//      //  currentDate
+//
+//    }
+//
+//}
+//
+//    private static  getDate() {
+//        return Date;
+//    }
+//    private static void setDate(){
+//        this.Date = Date;
+//    }
+}}
