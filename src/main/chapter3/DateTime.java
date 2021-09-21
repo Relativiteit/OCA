@@ -1,5 +1,8 @@
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Date;
-import java.util.Scanner;
 
 
 /**
@@ -8,26 +11,26 @@ import java.util.Scanner;
  */
 
 public class DateTime {
-    public static void main(String[] args){
+    public static void main(String[] args) {
+        // Current Date
+        LocalDate currentDate = LocalDate.now(); // LocalDate object
+        System.out.println(currentDate);
 
-//
-//     protected DateTime(){
-//        String name = Scanner;
-//    }
-//    {
-//
-//
-//        Date currentDate = new Date();
-//      //  currentDate
-//
-//    }
-//
-//}
-//
-//    private static  getDate() {
-//        return Date;
-//    }
-//    private static void setDate(){
-//        this.Date = Date;
-//    }
-}}
+        // current Time
+        LocalTime currentTime = LocalTime.now(); // localTime Object
+        System.out.println(currentTime);
+
+        // Current Date and Time
+        LocalDateTime currentDateTime = LocalDateTime.now(); // LocalDateTime object
+        System.out.println(currentDateTime);
+
+        // Formatting Dat and Time
+        LocalDateTime currentDateTime2 = LocalDateTime.now();
+        DateTimeFormatter formatDateTime = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
+        System.out.println("Before formatting: " + currentDateTime2);
+
+        String formattedCurrentDateTime2 = currentDateTime2.format(formatDateTime);
+        System.out.println("After Formatting: " + formattedCurrentDateTime2);
+
+    }
+    }
