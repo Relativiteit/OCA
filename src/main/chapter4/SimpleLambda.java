@@ -4,7 +4,7 @@
  */
 
 public class SimpleLambda {
-    /
+
     private String species;
     private boolean canHop;
     private boolean canSwim;
