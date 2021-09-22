@@ -48,7 +48,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```OverloadingMethods``` Exact, Larger primitive type, Autoboxed Type, Varargs.
 * ```CreatingConstructors```Default Constructors, Overloading Constructors, Final Fields, Order of Initialization.
 * ```EncapsulationData``` Encapsulation.
-* ```SimpleLambda``` Simplified lambda expressions.
+* ```SimpleLambda``` Simplified lambda expressions and predicate.
 * ```SummaryChap4``` Summary of most important things learned in chapter 4. 
 
 ## Chapter 5 Class Design
