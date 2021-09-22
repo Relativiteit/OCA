@@ -44,11 +44,11 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```DesigningMethods```Optional Specifiers, Return Type, Method Name, Parameter List, Optional Exception List, Method body.
 * ```Varargs``` Variable size of input possible.
 * ```AccessModifiers``` Private Access, Default Access, Protected Access, Public Access, Designing Static Methods and Fields, Calling a Static Variable or Mehod, Static vs instance, Static variable, Static Initialization, Static Imports.
-* ```PassingDataMethods``` Pass by Value
-* ```OverloadingMethods``` Exact, Larger primitive type, AUtoboxed Type, Varargs
+* ```PassingDataMethods``` Pass by Value.
+* ```OverloadingMethods``` Exact, Larger primitive type, Autoboxed Type, Varargs.
 * ```CreatingConstructors```Default Constructors, Overloading Constructors, Final Fields, Order of Initialization.
-* ```EncapsulationData``` Creating Immutable Classes.
-* ```SimpleLambda``` simplified lambda expressions.
+* ```EncapsulationData``` Encapsulation.
+* ```SimpleLambda``` Simplified lambda expressions.
 * ```SummaryChap4``` Summary of most important things learned in chapter 4. 
 
 ## Chapter 5 Class Design
