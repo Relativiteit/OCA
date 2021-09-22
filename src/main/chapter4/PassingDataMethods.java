@@ -13,7 +13,7 @@ public class PassingDataMethods {
         System.out.println(original1);
         System.out.println(original2);
     }
-    // passs by value
+    // pass by value
     public static void swap(int a, int b){
         int temp = a; // store original value in temporary variable.
         a = b;

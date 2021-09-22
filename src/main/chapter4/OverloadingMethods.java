@@ -17,6 +17,9 @@ public class OverloadingMethods {
     public static String run(String s){
         return "1";
     }
+    public static int run(int s){
+        return 1;
+    }
     // Varargs
     public static String run(String...s){
         return "2";
