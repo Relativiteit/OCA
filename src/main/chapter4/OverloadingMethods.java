@@ -1,4 +1,19 @@
+/**
+ * @author Alejo Cain
+ * @Date 22-09-2021 time:10:03
+ */
+
 public class OverloadingMethods {
+    /*
+    Finding the right overloading method
+    Exact match by type public String run(int i, int j)  {}
+    Larger primitive type public String run(long i, long j){}
+    Autoboxed type public String run(Integer i, Integer j){}
+    Varargs public String run(int... nums){}
+     */
+
+
+
     public static String run(String s){
         return "1";
     }
