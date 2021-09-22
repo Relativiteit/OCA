@@ -53,9 +53,16 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 
 ## Chapter 5 Class Design
 * ```ClassInheritance```Extending a class, Applying Class Access Modifiers, Creating Java Object, Defining Constructors, Calling Inherited Class Members, Inheriting Methods, Inheriting Variables,
-* ```AbstractClasses```Defining an Abstract Class, Creating a Concrete Class, Extending an Abstract Class.
+* ```AbstractClasses``` Defining an Abstract Class, Creating a Concrete Class, Extending an Abstract Class.
 * ```ImplementingInterfaces``` Defining an Interface, Inheriting an Interface, Interface Variables, Default Interface Methods, Static Interface Methods, Static Interface Methods.
 * ```Polymorphism``` Object vs Reference, Casting Objects, Virtual Methods, Polymorphic Parameters, Polymorphism and Method Overriding.
 * ```SummaryChap5``` Summary of most import things learned in chapter 5.
+
+## Chapter 6 Exceptions
+* ```Exeptions``` Throwing a Exception.
+* ```TryStatement``` Finally Block, Various Types of Exceptions, Throwing a Second Exception.
+* ```CommonExceptionTypes``` Runtime Exceptions, Checked Exceptions, Errors.
+* ```CallingMethodsThrowException```Subclasses, Printing an Exception.
+* ```SummaryChap6``` Summary of most important things learned in chapter 6.
 
 
