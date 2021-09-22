@@ -26,7 +26,7 @@
      }
 
     public static void main(String[] args) {
-        CreatingConstructors Alejo = new CreatingConstructors();
+        CreatingConstructors Alejo = new CreatingConstructors(100, 101);
         Alejo.neverLeaveLocalHost();
     }
 }
