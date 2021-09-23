@@ -60,7 +60,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 
 ## Chapter 6 Exceptions
 * ```Exeptions``` Throwing a Exception.
-* ```TryStatement``` Finally Block, Various Types of Exceptions, Throwing a Second Exception.
+* ```trystatements.TryStatement``` Finally Block, Various Types of Exceptions, Throwing a Second Exception.
 * ```CommonExceptionTypes``` Runtime Exceptions, Checked Exceptions, Errors.
 * ```CallingMethodsThrowException```Subclasses, Printing an Exception.
 * ```SummaryChap6``` Summary of most important things learned in chapter 6.
