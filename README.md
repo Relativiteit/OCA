@@ -43,7 +43,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 ## Chapter 4 Methods and Encapsulation
 * ```DesigningMethods```Optional Specifiers, Return Type, Method Name, Parameter List, Optional Exception List, Method body.
 * ```Varargs``` Variable size of input possible.
-* ```AccessModifiers``` Private Access, Default Access, Protected Access, Public Access, Designing Static Methods and Fields, Calling a Static Variable or Mehod, Static vs instance, Static variable, Static Initialization, Static Imports.
+* ```pakage1.AccessModifiers1```, ```pakage1.AccessModifiers2```, ```pakage2.AccessModifiers3```   Private Access, Default Access, Protected Access, Public Access, Designing Static Methods and Fields, Calling a Static Variable or Mehod, Static vs instance, Static variable, Static Initialization, Static Imports. 
 * ```PassingDataMethods``` Pass by Value.
 * ```OverloadingMethods``` Exact, Larger primitive type, Autoboxed Type, Varargs.
 * ```CreatingConstructors```Default Constructors, Overloading Constructors, Final Fields, Order of Initialization.
@@ -57,6 +57,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```learningInterfaces.ImplementingInterfaces``` Defining an Interface, Inheriting an Interface, Interface Variables, Default Interface Methods, Static Interface Methods, Static Interface Methods.
   - classes, ```Rabbit ``` ``` Fish ```, ``` Hawk```, interfaces ``` Predator ```, ``` Prey ```
 * ```polymorphism.Polymorphism``` Object vs Reference, Casting Objects, Virtual Methods, Polymorphic Parameters, polymorphism.Polymorphism and Method Overriding.
+- ```Boat```, ``` Bycicle```, ``` Car ```, ```Polymorphism```, ```Vehicle```
 * ```SummaryChap5``` Summary of most import things learned in chapter 5.
 
 ## Chapter 6 Exceptions
