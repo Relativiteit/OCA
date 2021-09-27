@@ -13,6 +13,7 @@ public class CallingMethodsThrowExceptions {
     }
     static void createArrays(int[] a){
         int[] smallArray = {2,5,7,8};
+
         for(int i : smallArray)
         {System.out.println(i);}
     }

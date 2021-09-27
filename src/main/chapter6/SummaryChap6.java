@@ -1,3 +1,8 @@
+/**
+ * @author Alejo Cain
+ * @Date 27-09-2021 time 02:54
+ */
+
 public class SummaryChap6 {
 
     // combination of things learned from chapter 6

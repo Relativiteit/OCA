@@ -3,6 +3,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * @author Alejo Cain
+ * @Date 27-09-2021 time 02:30
+ */
 import static java.lang.System.in;
 
 public class CommonExceptionsTypes {
