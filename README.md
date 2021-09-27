@@ -38,7 +38,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ``` JavaArrays``` Array of primitives, Array with reference variables, using an array, sorting, searching, Varargs, Multidimensional Arrays.
 * ```ArrayList``` Create arrayList, Using ArrayList, wrapper classes, autoboxing, convering between array and List, sorting.
 * ```DatesTime``` Creating dates and times, manipulating dates and times, working with periods, formatting dates and Times, Parsing Dates and Times.
-* ```SummaryChap3``` Summary of all that is learned in chapter 3.
+* ```SummaryChap3``` Implementation of main concepts of chapter 3.
 
 ## Chapter 4 Methods and Encapsulation
 * ```DesigningMethods```Optional Specifiers, Return Type, Method Name, Parameter List, Optional Exception List, Method body.
@@ -49,7 +49,7 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
 * ```CreatingConstructors```Default Constructors, Overloading Constructors, Final Fields, Order of Initialization.
 * ```EncapsulationData``` Encapsulation.
 * ```SimpleLambda``` Simplified lambda expressions and predicate.
-* ```SummaryChap4``` Summary of most important things learned in chapter 4. 
+* ```SummaryChap4``` Implementation of main concepts of chapter 4.
 
 ## Chapter 5 Class Design
 * ```ClassInheritance```Extending a class, Applying Class Access Modifiers, Creating Java Object, Defining Constructors, Calling Inherited Class Members, Inheriting Methods, Inheriting Variables,
@@ -58,13 +58,15 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
   - classes, ```Rabbit ``` ``` Fish ```, ``` Hawk```, interfaces ``` Predator ```, ``` Prey ```
 * ```polymorphism.Polymorphism``` Object vs Reference, Casting Objects, Virtual Methods, Polymorphic Parameters, polymorphism.Polymorphism and Method Overriding.
 - ```Boat```, ``` Bycicle```, ``` Car ```, ```Polymorphism```, ```Vehicle```
-* ```SummaryChap5``` Summary of most import things learned in chapter 5.
+* ```SummaryChap5``` Implementation of main concepts of chapter 5.
 
 ## Chapter 6 Exceptions
 * ```Exeptions``` Throwing a Exception.
 * ```Trystatements``` Finally Block, Various Types of Exceptions, Throwing a Second Exception.
 * ```CommonExceptionTypes``` Runtime Exceptions, Checked Exceptions, Errors.
 * ```CallingMethodsThrowException```Subclasses, Printing an Exception.
-* ```SummaryChap6``` Summary of most important things learned in chapter 6.
+* ```SummaryChap6``` Implementation of main concepts of chapter 6.
+
+
 
 
