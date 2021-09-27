@@ -1,4 +1,3 @@
-import java.util.Random;
 // how to import other class RandomGenerator?;
 
 // other random

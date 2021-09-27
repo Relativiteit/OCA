@@ -1,5 +1,3 @@
-import javax.swing.text.DefaultCaret;
-
 public class DeclaringInitializingVariables {
     public boolean b1 = true;
 

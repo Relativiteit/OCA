@@ -1,5 +1,3 @@
-import javax.management.DescriptorAccess;
-
 public class DefaultInitializingVariables
 
     /**
