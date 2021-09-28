@@ -14,8 +14,9 @@ public class SummaryChap4 {
         print(moreLambs, knife -> knife.canHop());
 
         System.out.println("These guys can swim: ");
-        print(moreLambs, knife -> knife.canSwim());
-    }
+        print(moreLambs, knife -> knife.canSwim());}
+
+
     //   with predicate you don't need to make a interface
     private static void print(List<SimpleLambda> moreLambs, Predicate<SimpleLambda> checker) {
         for (SimpleLambda moreLamb : moreLambs) {

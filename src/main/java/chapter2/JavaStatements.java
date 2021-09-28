@@ -1,10 +1,3 @@
-// how to import other class RandomGenerator?;
-
-// other random
-
-// different packages
-// access modifiers
-// implement own random
 
 public class JavaStatements  {
     /**

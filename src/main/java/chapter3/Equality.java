@@ -6,9 +6,7 @@ public class Equality {
 
     public static void main(String[] args) {
 
-
         // equal 2 ways == and .equals()
-
         Tiger t1 = new Tiger();
         Tiger t2 = new Tiger();
         Tiger t3 = t1;

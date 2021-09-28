@@ -20,7 +20,6 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
  * ```VariableScope``` Access of variables inside and outside a class or function.
  * ```OrderingElements``` Order of elements in a file.
  * ```DestroyingObjects``` Garbage Collection, finalize().
- * ```Summary``` Implementation of main concepts of chapter 1.
 
 ## Chapter 2 Operators and Statements
 * ```JavaOperators``` Common operators used in Java.
@@ -58,7 +57,6 @@ Every chapter will have scripts to solidify the concepts within JAVA, and a summ
   - classes, ```Rabbit ``` ``` Fish ```, ``` Hawk```, interfaces ``` Predator ```, ``` Prey ```
 * ```polymorphism.Polymorphism``` Object vs Reference, Casting Objects, Virtual Methods, Polymorphic Parameters, polymorphism.Polymorphism and Method Overriding.
 - ```Boat```, ``` Bycicle```, ``` Car ```, ```Polymorphism```, ```Vehicle```
-* ```SummaryChap5``` Implementation of main concepts of chapter 5.
 
 ## Chapter 6 Exceptions
 * ```Exeptions``` Throwing a Exception.

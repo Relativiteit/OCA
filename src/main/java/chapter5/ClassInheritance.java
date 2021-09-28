@@ -40,7 +40,7 @@ class GravelBike extends Roadbike {
         seatHeight = startHeight;
     }
 
-    // the GRavelBike subclass adds one more method
+    // the GravelBike subclass adds one more method
     public void setSeatHeight(int newValue)
     {
         seatHeight = newValue;

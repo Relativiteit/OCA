@@ -11,8 +11,8 @@ public class DesigningMethods {
         String name = "GOofy";
         String designName = name;
         return designName;
-
         }
+
         // Methods
         public static void noReturns(){
         int age = 0;

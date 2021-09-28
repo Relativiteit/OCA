@@ -29,7 +29,6 @@ public class TraditionalSearch {
         for (SimpleLambda lamb:smallLambs){
             if(checker.test(lamb))
                 System.out.println(lamb + " " );
-
         }
         System.out.println();
     }
